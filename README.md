@@ -11,6 +11,8 @@ If you ever need help or just wanna chat about tech, design, or startups, **hit 
 ### 🌟 Fun Facts About Me  
 - 🌍 My life mission? **Enjoy and experience life in my own way!**  
 - 🎭 I’m a **multi-interest explorer**—if it’s new and exciting, I wanna try it!  
-- 🐱 I love both **cats and dogs** (why choose when you can love both?)  
+- 🐱 I love both **cats and dogs** (why choose when you can love both?)
+
+(And not to mention, I’m a **self-taught developer** and **college dropout!**)
 
 ![Cool gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29oZDdkcTZ6bG9vd3ZsN2I5cjFxM2ZoZDhrNXV0ZXpqbDJ4cHdwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dBPE2fIInoJDV5u61/giphy.gif)
