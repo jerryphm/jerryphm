@@ -2,9 +2,9 @@
 
 📱 Mobile Developer | 🎨 UI/UX Designer | 🚀 Solo Founder  
 
-I specialize in **React Native development**, building smooth and intuitive mobile experiences.  
+I specialize in **React Native**, building smooth and intuitive mobile experiences.  
 I’ve also got hands-on experience with **native Android & iOS** development.  
-Design is another passion of mine—I love making products **both functional and beautiful**.  
+Design is another passion of mine, I love making products **both functional and beautiful**.  
 
 ### 🚀 What I'm up to  
 Currently, I'm on a wild adventure as a **solo founder**, bringing my ideas to life.  
