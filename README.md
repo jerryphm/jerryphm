@@ -2,7 +2,7 @@
 
 📱 Mobile Developer | 🎨 UI/UX Designer | 🚀 Solo Founder  
 
-I'm a **React Native developer** with over 2.5 years of experience, crafting robust, scalable, and maintainable mobile apps. I also have hands-on experience with **Android & iOS** native development. **Design** is another passion of mine—I love creating products that are both **functional and beautiful**.
+I'm a **React Native developer** with over 2.5 years of experience, crafting robust, scalable, and maintainable mobile apps. I also have hands-on experience with **Android** native development. **Design** is another passion of mine—I love creating products that are both **functional and beautiful**.
 
 ### 🚀 What I'm up to  
 Currently, I'm on a wild adventure as a **solo founder**, bringing my ideas to life.  
