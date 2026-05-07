@@ -12,3 +12,5 @@ I'm a product builder enthusiast — especially into B2C mobile applications.
 for freelance work & collaborations.
 
 Happy coding!
+
+[![wakatime](https://wakatime.com/badge/user/c5d81155-267b-4361-ac68-887ac74cc34c.svg)](https://wakatime.com/@c5d81155-267b-4361-ac68-887ac74cc34c)
