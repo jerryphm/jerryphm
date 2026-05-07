@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**jerryphm/jerryphm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Thang.
 
-Here are some ideas to get you started:
+I'm a product builder enthusiast — especially into B2C mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frame0 & Figma for design
+- React Native (Expo) for iOS & Android
+- Node.js & Postgres for backend
+
+📫 Ping me at: jerrypham.work@gmail.com  
+for freelance work & collaborations.
+
+Happy coding!
